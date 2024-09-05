@@ -57,11 +57,15 @@
 - [EleutherAI](https://www.eleuther.ai/artifacts/gpt-neo)
 
 ## Entertainment
-[I Like Boobs](braincandydan.github.io/i-like-boobs)
+- [I Like Boobs](braincandydan.github.io/i-like-boobs)
 
 ## Tools
+- [Jeffsum](https://jeffsum.com/)
 
-## Iphone/
+## Iphone
+
+## Music
+- [Spotify Profile Details](https://spotify-profile.herokuapp.com)
 
 
 
